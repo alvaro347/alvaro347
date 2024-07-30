@@ -1,7 +1,5 @@
 # Welcome to My GitHub Profile!
 
-Hello! I'm Alvaro, an Electrical Engineer ⚡, Concept Artist 🎨, and Computer Science student 💻. I am currently diving deep into web development and exploring various technologies and frameworks
-
 ## About Me
 
 - **Background**: Electrical Engineering ⚡
@@ -20,4 +18,3 @@ Hello! I'm Alvaro, an Electrical Engineer ⚡, Concept Artist 🎨, and Computer
 ## Get in Touch
 
 - **LinkedIn**: [Alvaro LinkedIn](https://www.linkedin.com/in/alvaro-fernandez-rodriguez/)
-- **ArtStation**: [Art Portfolio](https://www.artstation.com/alvaro347)
