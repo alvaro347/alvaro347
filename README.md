@@ -9,14 +9,9 @@ Hello! I'm Alvaro, an Electrical Engineer ⚡, Concept Artist 🎨, and Computer
 - **Current Focus**: Computer Science and Web Development 💻
 - **Personal Portfolio Website**: [afrstudio](https://alvaro347.github.io/afrstudio/)
 
-## Technologies
-
-- **Languages**: JavaScript, Python, HTML, CSS, Java
-- **Frameworks**: React, Node.js
-- **Tools**: Git, GitHub, VS Code, Adobe Photoshop, Blender
-
 ## Learning and Development
 
+- **Languages**: JavaScript, Python, HTML, CSS, Java
 - Frontend Development with React
 - Backend Development with Node.js and Express
 - Database Management with MongoDB
