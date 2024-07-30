@@ -17,4 +17,4 @@
 
 ## Get in Touch
 
-- **LinkedIn**: [Alvaro LinkedIn](https://www.linkedin.com/in/alvaro-fernandez-rodriguez/)
+- [LinkedIn](https://www.linkedin.com/in/alvaro-fernandez-rodriguez/)
