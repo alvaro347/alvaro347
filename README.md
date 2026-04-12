@@ -9,11 +9,10 @@
 
 ## Learning and Development
 
-- **Languages**: JavaScript, Python, HTML, CSS, Java
+- **Languages**: JavaScript, Python, TypeScript, Java
 - Frontend Development with React
 - Backend Development with Node.js and Express
-- Database Management with MongoDB
-- Cloud Computing with AWS
+- Database Management with SQL
 
 ## Get in Touch
 
