@@ -1,7 +1,5 @@
 # Alvaro | [Portfolio](https://alvaro347.github.io/afrstudio/)
 
-Developer focused on cross-platform applications and AI experimentation.
-
 ## Projects
 
 ### Tassku
